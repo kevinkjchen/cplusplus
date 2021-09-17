@@ -32,12 +32,4 @@
 <b>Other</b>:<br>
 Two class templates share certain properties with containers, and are sometimes classified with them: <samp><a href="/bitset">bitset</a></samp> and <samp><a href="/valarray">valarray</a></samp>.<br>
 <br>
-<h3>Member map</h3>
-This is a comparison chart with the different member functions present on each of the different containers:<br>
-<br>
-<b>Legend</b>:<br>
-<table class="boxed containers">
-<tr><th class="cpp98">C++98</th><td class="cpp98">Available since C++98</td></tr>
-<tr><th class="cpp11">C++11</th><td class="cpp11">New in C++11</td></tr>
-</table>
-<br>
+
