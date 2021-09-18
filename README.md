@@ -22,6 +22,6 @@
     提供搜尋、排序與比較等功能
 
 References:
-https://www.cplusplus.com/reference/stl/
-https://sites.google.com/view/zsgititit/home/jin-jiec-cheng-shi-she-ji/stl
+1. https://www.cplusplus.com/reference/stl/
+2. https://sites.google.com/view/zsgititit/home/jin-jiec-cheng-shi-she-ji/stl
 
