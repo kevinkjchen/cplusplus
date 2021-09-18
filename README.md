@@ -1,8 +1,11 @@
 # C++ STL
 
 標準樣板函式庫(Standard Template Library)包含
+
    容器(container)
+   
    迭代器(iterator)
+   
    演算法(algorithm)
 
 一、容器
@@ -114,6 +117,7 @@
 <tr><td><tt>max_load_factor</tt></td><td class="none"> </td><td class="none"> </td><td class="none"> </td><td class="none"> </td><td class="cpp11"><a href="/unordered_set::max_load_factor">max_load_factor</a></td><td class="cpp11"><a href="/unordered_multiset::max_load_factor">max_load_factor</a></td><td class="cpp11"><a href="/unordered_map::max_load_factor">max_load_factor</a></td><td class="cpp11"><a href="/unordered_multimap::max_load_factor">max_load_factor</a></td></tr>
 </table>    
 
+
 二、迭代器
 
     類似指標的功能
@@ -156,6 +160,7 @@ a &gt;= b</tt></td></tr>
 a -= n</tt></td></tr>
 <tr><td>Supports offset dereference operator (<tt>[]</tt>)</td><td><tt>a[n]</tt></td></tr>
 </table>
+
 
 三、演算法
 
