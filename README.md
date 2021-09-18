@@ -7,7 +7,8 @@
    迭代器(iterator)
    
    演算法(algorithm)
-
+   
+<br>
 一、容器
 
     1. 循序式容器(sequence containers)
@@ -70,7 +71,7 @@
 <tr><td rowspan="2">observers</td><td><tt>get_allocator</tt></td><td class="none"> </td><td class="cpp98"><a href="/vector::get_allocator">get_allocator</a></td><td class="cpp98"><a href="/deque::get_allocator">get_allocator</a></td><td class="cpp11"><a href="/forward_list::get_allocator">get_allocator</a></td><td class="cpp98"><a href="/list::get_allocator">get_allocator</a></td></tr>
 <tr><td><tt>data</tt></td><td class="cpp11"><a href="/array::data">data</a></td><td class="cpp11"><a href="/vector::data">data</a></td><td class="none"> </td><td class="none"> </td><td class="none"> </td></tr>
 </table>
-<br>
+
 <h4>Associative containers</h4>
 <table class="boxed containers">
 <tr><td colspan="2">Headers</td><th colspan="2"><tt><a href="/&lt;set&gt;">&lt;set&gt;</a></tt></th><th colspan="2"><tt><a href="/&lt;map&gt;">&lt;map&gt;</a></tt></th><th colspan="2"><tt><a href="/&lt;unordered_set&gt;">&lt;unordered_set&gt;</a></tt></th><th colspan="2"><tt><a href="/&lt;unordered_map&gt;">&lt;unordered_map&gt;</a></tt></th></tr>
@@ -117,7 +118,7 @@
 <tr><td><tt>max_load_factor</tt></td><td class="none"> </td><td class="none"> </td><td class="none"> </td><td class="none"> </td><td class="cpp11"><a href="/unordered_set::max_load_factor">max_load_factor</a></td><td class="cpp11"><a href="/unordered_multiset::max_load_factor">max_load_factor</a></td><td class="cpp11"><a href="/unordered_map::max_load_factor">max_load_factor</a></td><td class="cpp11"><a href="/unordered_multimap::max_load_factor">max_load_factor</a></td></tr>
 </table>    
 
-
+<br>
 二、迭代器
 
     類似指標的功能
@@ -161,7 +162,7 @@ a -= n</tt></td></tr>
 <tr><td>Supports offset dereference operator (<tt>[]</tt>)</td><td><tt>a[n]</tt></td></tr>
 </table>
 
-
+<br>
 三、演算法
 
     提供搜尋、排序與比較等功能
