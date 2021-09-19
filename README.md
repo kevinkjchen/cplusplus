@@ -167,7 +167,8 @@ a -= n</tt></td></tr>
 
 >    提供搜尋、排序與比較等功能
 >   
->    header <algorithm>
+>    header \<algorithm>
+>
 
 References:
 1. https://www.cplusplus.com/reference/stl/
